@@ -39,7 +39,7 @@ m2-backend/
 │  │  └─ cart_service.py
 │  ├─ core/                # Fonctions utilitaires (cosine, fusion, ranking)
 │  ├─ models/              # Schémas MongoDB (Beanie)
-│  ├─ db/                  # Connexion et seed DB
+│  ├─ dataset/             # Vectorisation pour le developement
 │  └─ config.py            # Configuration globale
 ├─ requirements.txt        # Dépendances Python
 └─ README.md               # Documentation projet
