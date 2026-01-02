@@ -1,0 +1,22 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers compilés
+*.pyc
+__pycache__/
+
+# Dépendances
+build/
+dist/
+
+# Fichiers de configuration sensibles
+.env
+
+# Logs et temporaires
+*.log
+*.tmp
+
+# Fichiers spécifiques à certains outils
+.DS_Store
